@@ -11,9 +11,10 @@ If you don't already have a token you can get one
 
 ### Installing gems
 
-You will need the octokit gem to talk to the API. To install this do:
+You will need the following gems. To install them do:
 
     gem install octokit
+    gem install pry
 
 ### Running the script
 
